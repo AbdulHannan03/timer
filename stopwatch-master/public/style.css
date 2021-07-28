@@ -1,0 +1,10 @@
+.parent{
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+    font-weight: 800;
+    color: black;
+    margin-bottom: 100px;
+    text-shadow: 5px 5px 5px white;
+}
